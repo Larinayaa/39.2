@@ -1,4 +1,4 @@
-
+//взяла старый код
 class Person {
     private String name;
     public Person(String name) {
